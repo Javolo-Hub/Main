@@ -1,4 +1,4 @@
----You Are Not Permitted To Distribute This Code To Anyone	
+---You Are Not Permitted To Distribute This Code To Anyone I HATE NIGGERS	
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 	OrionLib:MakeNotification({
 		Name = "Loading...",
