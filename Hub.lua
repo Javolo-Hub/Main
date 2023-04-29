@@ -1,4 +1,5 @@
-	local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+---You Are Not Permitted To Distribute This Code To Anyone	
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 	OrionLib:MakeNotification({
 		Name = "Loading...",
 		Content = "Loading...",
