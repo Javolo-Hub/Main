@@ -66,7 +66,17 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 			})
 		end    
 	})
-
+	TDS:AddButton({
+		Name = "sub to tripledomm",
+		Callback = function()
+			OrionLib:MakeNotification({
+				Name = "Executed!",
+				Content = "You Have Subscribed!1!11"..LocalPlayer.DisplayName.."!",
+				Image = "rbxassetid://7733715400",
+				Time = 3
+			})
+		end    
+	})
 	TDS:AddButton({
 		Name = "Auto Medic Macro",
 		Callback = function()
